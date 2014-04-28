@@ -1,7 +1,7 @@
 Backbone.Views to Reactjs
 =========================
 
-This is just a demo work for [Website](https://speakerdeck.com/sarmadsangi/from-backbone-dot-views-to-reactjs) presentation.
+This is just a demo work for [From Backbone.Views to ReactJs](https://speakerdeck.com/sarmadsangi/from-backbone-dot-views-to-reactjs) presentation.
 
 ## Getting Started
    1. `git clone https://github.com/sarmadsangi/backbone_to_reactjs.git`
