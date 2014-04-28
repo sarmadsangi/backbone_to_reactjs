@@ -1,0 +1,13 @@
+<header>
+	<section>
+		<a href="#" class="btn btn-primary AddCat">Add Cat</a>
+		<h4> Number of cats <%= length %></h4>
+	</section>
+</header>
+
+<div class="left animate">
+<% _.each(cats, function(cat) { %>
+    <img src="/img/cats/<%= cat.cat %>.jpg" />
+<% }); %>
+</div>
+

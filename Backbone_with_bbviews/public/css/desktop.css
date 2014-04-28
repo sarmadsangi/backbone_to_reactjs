@@ -1,0 +1,47 @@
+/* desktop.css */
+@import url("bootstrap.css");
+@import url("commonstyles.css");
+
+#catApp {
+  padding: 20px;
+}
+
+#catApp header {
+  margin-bottom: 20px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.animate img {
+	-webkit-animation: catAnimation 5s infinite;
+	-moz-animation:    catAnimation 5s infinite;
+	-o-animation:      catAnimation 5s infinite;
+	animation:         catAnimation 5s infinite;
+}
+
+@-webkit-keyframes catAnimation {
+  0%   { opacity: 0; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
+}
+@-moz-keyframes catAnimation {
+  0%   { opacity: 0; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
+}
+@-o-keyframes catAnimation {
+  0%   { opacity: 0; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
+}
+@keyframes catAnimation {
+  0%   { opacity: 0; }
+  50% { opacity: 1; }
+  100% { opacity: 0; }
+}
