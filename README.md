@@ -12,5 +12,5 @@ This is just a demo work for [Website](https://speakerdeck.com/sarmadsangi/from-
    6. Both the examples will be running on `localhost:8001` & `localhost:8002` respectively
    
 
-NOTE : Both the examples were forked from `https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate` and modified accoridngly.
+NOTE : Boilerplate code was forked from `https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate` and modified accoridngly.
   
